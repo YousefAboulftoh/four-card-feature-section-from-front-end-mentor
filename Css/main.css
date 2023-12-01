@@ -49,6 +49,7 @@ body {
 }
 
 .boxs .box {
+    position:relative;
     height: 222px;
     background-color: white;
     border-radius: 5px;
